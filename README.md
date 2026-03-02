@@ -27,7 +27,8 @@ Experienced in large-scale e-commerce datasets, KPI tracking, funnel analysis, a
 ---
 
 ## 📌 Featured Projects
-- 🔹 Sales & Business Performance Analysis (SQL – BigQuery)  
+- 🔹 Sales & Business Performance Analysis (SQL – BigQuery)  \
+- 
 - 🔹 E-commerce BI Dashboard (Power BI)  
 - 🔹 Marketing ROAS Dashboard (Power BI)  
 - 🔹 RFM Customer Segmentation (Python)  
