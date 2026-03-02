@@ -3,8 +3,9 @@
 📊 Data Analyst | SQL | Python | Power BI  
 📍 Ho Chi Minh City, Vietnam  
 
-I analyze business data to uncover growth drivers, performance gaps, and customer behavior patterns.  
-Experienced in large-scale e-commerce datasets, KPI tracking, funnel analysis, and RFM segmentation using SQL (BigQuery), Python, and Power BI.
+With over three years of experience in recruitment and performance tracking, developed a strong foundation in **KPI monitoring, performance analysis, and business metrics evaluation**.
+Leveraging formal training in **SQL, Python, Power BI, and Machine Learning**, capable of analyzing data, building interactive dashboards, and performing **customer segmentation and behavioral analysis** to generate actionable insights that support strategic decision-making and drive sustainable business growth.
+Seeking a **Data Analyst** role with a strong interest in **E-commerce, Banking, and FMCG industries**, aiming to apply data-driven analysis to optimize performance, enhance customer strategy, and contribute to measurable business expansion in a results-oriented environment.
 
 ---
 
@@ -12,19 +13,19 @@ Experienced in large-scale e-commerce datasets, KPI tracking, funnel analysis, a
 
 ### [E-commerce Web Performance & Purchase Behavior Analysis | SQL, BigQuery](https://github.com/vanbatphuctai/E-commerce-Traffic-to-Transaction-Analysis-SQL-BigQuery)
 
-This project analyzes an E-commerce dataset using SQL in Google BigQuery, based on Google Analytics data. It focuses on extracting key business insights including user behavior, revenue trends, bounce rates, cohort analysis, and purchase patterns.
+Analyzed 900K+ session-level e-commerce data to assess traffic and revenue trends, compare purchaser vs. non-purchaser behavior, and identify funnel drop-offs from product view to purchase. Tools: SQL (CTE, CASE WHEN, Window Functions, Aggregates), BigQuery.
 
 ---
 
 ### [Bicycle Manufacturer Sales & Operations Analytics | SQL, BigQuery](https://github.com/vanbatphuctai/Bicycle-Manufacturer-Sales-Operations-Analytics-SQL-BigQuery)
 
-This project performs sales and operational analysis for a bicycle manufacturer using SQL in Google BigQuery. It focuses on uncovering sales trends, operational efficiency drivers, region/product breakdown, and KPI insights for decision support.
+Analyzed ~300K records from AdventureWorks 2019 using SQL in BigQuery (CTEs, window functions, cohort analysis) to assess sales growth, territory performance, discounts, inventory, and retention. Delivered actionable insights on 3.87M pending value, 27x stock imbalance, 3.7% early retention, and +389–521% YoY growth, supporting data-driven perform
 
 ---
 
 ### [Retail Performance and Market Expansion For A Global Superstore | Power BI](https://github.com/vanbatphuctai/Retail-Performance-and-Market-Expansion-For-A-Global-Superstore-PowerBI)
 
-This project builds an interactive Power BI dashboard to analyze retail performance and market expansion. It focuses on key KPIs, segment analysis, region performance, and actionable insights to support strategic decisions.
+Processed 50K+ sales records from three CSV files using Power Query for data cleansing and transformation. Designed a structured data model, applied Design Thinking principles, and built an interactive Power BI dashboard. Leveraged DAX to create core KPIs and visualizations, delivering actionable insights to support market expansion and product per
 
 ---
 
