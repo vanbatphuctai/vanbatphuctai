@@ -37,7 +37,7 @@ Integrated ~3,500 sales records, 855 campaigns, and 3,875 SKU-level cost entries
 
 --- 
 
-### [Retail Marketing Strategy & RFM Customer Segmentation | Python](https://github.com/vanbatphuctai/Retail-Marketing-Strategy-and-RFM-Customer-Segmentation-Python)
+### [Retail Marketing Strategy & RFM Customer Segmentation | Python](https://github.com/vanbatphuctai/Retail-Customer-Segmentation-using-RFM-Analysis-in-Global-Superstore-Python)
 
 Retail marketing analytics on 540K+ transactions using Python, applying data cleaning, feature engineering, and EDA to build an automated RFM model for customer segmentation. Leveraged Pandas, NumPy, and visualization tools to uncover trends, enable targeted strategies, optimize campaigns, and drive revenue growth through data-driven insights.
 
@@ -45,7 +45,7 @@ Retail marketing analytics on 540K+ transactions using Python, applying data cle
 
 ## 🛠 Tools & Technologies
 - **SQL:** BigQuery, CTE, JOIN, Window Functions, Aggregation  
-- **Python:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Python:** Pandas, NumPy, Matplotlib, Scikit-learn/Machine Learning
 - **Power BI:** Data Modeling, DAX, KPI Dashboard Development  
 - **Analytics:** Hypothesis Testing, Clustering, RFM Model, Dashboarding
 - **Data Tools:** Advanced Excel, Google BigQuery
