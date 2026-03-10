@@ -37,7 +37,7 @@ Integrated ~3,500 sales records, 855 campaigns, and 3,875 SKU-level cost entries
 
 ---
 
-## [E-Commerce Sales, Delivery Performance & Customer Behavior Analysis | Power BI](https://github.com/vanbatphuctai/E-Commerce-Sales-Delivery-Performance-and-Customer-Behavior-Analysis-Power-BI)
+### [E-Commerce Sales, Delivery Performance & Customer Behavior Analysis | Power BI](https://github.com/vanbatphuctai/E-Commerce-Sales-Delivery-Performance-and-Customer-Behavior-Analysis-Power-BI)
 
 Power BI dashboard analyzing 113K+ e-commerce orders and 31 transactional features to evaluate sales performance, delivery efficiency, and customer purchasing behavior. The analysis highlights GMV trends, product category performance, customer segmentation, and logistics operations to support data-driven decisions and strategic business planning.
 
