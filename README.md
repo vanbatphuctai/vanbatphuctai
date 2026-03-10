@@ -35,14 +35,31 @@ Processed 50K+ sales records from three CSV files using Power Query for data cle
 
 Integrated ~3,500 sales records, 855 campaigns, and 3,875 SKU-level cost entries using Power Query for data cleansing and modeling. Built a star schema linking marketing spend to sales performance, applied Design Thinking to align insights with business goals, and developed key DAX metrics (Revenue, ROAS, ROI, Margin).
 
+---
+
+## [E-Commerce Sales, Delivery Performance & Customer Behavior Analysis | Power BI](https://github.com/vanbatphuctai/E-Commerce-Sales-Delivery-Performance-and-Customer-Behavior-Analysis-Power-BI)
+
+Power BI dashboard analyzing 113K+ e-commerce orders and 31 transactional features to evaluate sales performance, delivery efficiency, and customer purchasing behavior. The analysis highlights GMV trends, product category performance, customer segmentation, and logistics operations to support data-driven decisions and strategic business planning.
+
 --- 
 
 ### [Retail Customer Segmentation using RFM Analysis in Global Superstore | Python](https://github.com/vanbatphuctai/Retail-Customer-Segmentation-using-RFM-Analysis-in-Global-Superstore-Python)
 
 Retail marketing analytics on 540K+ transactions using Python, applying data cleaning, feature engineering, and EDA to build an automated RFM model for customer segmentation. Leveraged Pandas, NumPy, and visualization tools to uncover trends, enable targeted strategies, optimize campaigns, and drive revenue growth through data-driven insights.
 
+--- 
+
+### [E-Wallet Payment Performance & Transaction Behavior Analysis | Python](https://github.com/vanbatphuctai/E-Wallet-Payment-Performance-and-Transaction-Behavior-Analysis-Python)
+
+Python-based analysis of e-wallet payment performance and transaction behavior using 1.3M+ transaction records across payment reports, product metadata, and transaction logs. The analysis evaluates product performance, team ownership, refund sources, and transaction patterns to support operational optimization.
+
 ---
 
+### [E-commerce Customer Churn Analysis, Prediction & Segmentation | Machine Learning, Python](https://github.com/vanbatphuctai/E-commerce-Customer-Churn-Analysis-Prediction-Segmentation-Machine-Learning-Python)
+
+End-to-end machine learning analysis of customer churn in an e-commerce platform. The dataset includes 5,630 customers and 20 behavioral features. The workflow combines exploratory data analysis, churn prediction using an optimized XGBoost model (Recall 0.74), and K-Means clustering to segment churned users into four behavioral groups.
+
+---
 ## 🛠 Tools & Technologies
 - **SQL:** BigQuery, CTE, JOIN, Window Functions, Aggregation  
 - **Python:** Pandas, NumPy, Matplotlib, Scikit-learn/Machine Learning
