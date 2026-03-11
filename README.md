@@ -7,7 +7,7 @@ With over three years of experience in recruitment and performance tracking, dev
 
 Leveraging formal training in **SQL, Python, Power BI, and Machine Learning**, capable of analyzing data, building interactive dashboards, and performing **customer segmentation and behavioral analysis** to generate actionable insights that support strategic decision-making and drive sustainable business growth.
 
-Seeking a **Data Analyst** role with a strong interest in **E-commerce, Banking, and FMCG industries**, aiming to apply data-driven analysis to optimize performance, enhance customer strategy, and contribute to measurable business expansion in a results-oriented environment.
+Seeking a **Data Analyst** role with a strong interest in **E-commerce, HR, FMCG, and Banking**, aiming to leverage **data-driven insights** to improve **business performance**, optimize **customer strategies**, and support **data-informed decision-making**.
 
 ---
 
