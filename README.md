@@ -69,9 +69,9 @@ End-to-end machine learning analysis of customer churn in an e-commerce platform
 
 ---
 ## Achievements & Certifications
-- **SQL:** HackerRank (Advanced, 2026); DataCamp (2026)
+- **SQL:** HackerRank (Advanced, 2026); DataCamp (2025)
 - **Power BI:**  DataCamp (2025)
-- **Python:** DataCamp (2026)
+- **Python:** DataCamp (2025)
 - **Unigap**: Data Analyst Coaching 1 on 1 Program 
 
 ---
